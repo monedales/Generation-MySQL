@@ -90,5 +90,3 @@ SELECT * FROM TB_PERSONAGENS;
 
 
 
-
-
